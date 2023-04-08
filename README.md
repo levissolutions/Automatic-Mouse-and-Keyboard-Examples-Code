@@ -9,7 +9,7 @@ To get started, simply clone or download the repository to your local machine. T
 In addition to the example code in this repository, we also have a [YouTube channel](insert link here) where we provide tutorials on how to use the software. Be sure to check it out if you're new to Automatic Mouse and Keyboard or if you're looking for more advanced tips and tricks.
 
 ##Contributing
-We welcome contributions to this repository! If you have an example script that you'd like to share, please feel free to submit a pull request. Before doing so, please review our [contributing guidelines](insert link here) to ensure that your code meets our standards and is compatible with the latest version of the software.
+We welcome contributions to this repository! If you have an example script that you'd like to share, please feel free to submit a pull request. Before doing so, please review our [contributing guidelines](https://taiamk.pro) to ensure that your code meets our standards and is compatible with the latest version of the software.
 
 ##License
-All code in this repository is licensed under the [MIT License](insert link here). By using this code, you agree to the terms and conditions of the license.
+All code in this repository is licensed under the [MIT License](https://www.youtube.com/watch?v=KGd7Dzm3oAk&list=PL-FffISQTZ-17rfJEdC1lzlVe7AdaiO33). By using this code, you agree to the terms and conditions of the license.
