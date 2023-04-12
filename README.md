@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Automatic Mouse and Keyboard Example Code Repository
 ## Introduction
 Welcome to the Automatic Mouse and Keyboard Example Code Repository! This repository contains example code for the Automatic Mouse and Keyboard software, which is available for purchase on [our website](https://taiamk.pro/). The code is intended to help users better understand how to use the software and customize it to suit their needs.
@@ -13,3 +14,8 @@ We welcome contributions to this repository! If you have an example script that 
 
 ## License
 All code in this repository is licensed under the [MIT License](https://www.youtube.com/watch?v=KGd7Dzm3oAk&list=PL-FffISQTZ-17rfJEdC1lzlVe7AdaiO33). By using this code, you agree to the terms and conditions of the license.
+=======
+# Automatic-Mouse-and-Keyboard-Examples-Code
+This public repository contains example code for the Automatic Mouse and Keyboard software, which is available for purchase on [our website](https://taiamk.pro/). 
+The code is intended to help users better understand how to use the software and customize it to suit their needs. Additionally, we have a [YouTube channel](https://www.youtube.com/channel/UCaVxc9OC9OvOyPlhSq-7URw) where we provide tutorials on how to use the software.
+>>>>>>> 2811fb442a0be7173bde9aeca6fb1aaa587dc2a3
