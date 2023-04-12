@@ -6,7 +6,7 @@ Welcome to the Automatic Mouse and Keyboard Example Code Repository! This reposi
 To get started, simply clone or download the repository to your local machine. The code is organized into folders based on specific use cases, such as automating repetitive tasks or creating macros. Each folder contains one or more example scripts that demonstrate how to use the software to achieve a specific task.
 
 ## Resources
-In addition to the example code in this repository, we also have a [YouTube channel](insert link here) where we provide tutorials on how to use the software. Be sure to check it out if you're new to Automatic Mouse and Keyboard or if you're looking for more advanced tips and tricks.
+In addition to the example code in this repository, we also have a [YouTube channel](https://www.youtube.com/channel/UCaVxc9OC9OvOyPlhSq-7URw) where we provide tutorials on how to use the software. Be sure to check it out if you're new to Automatic Mouse and Keyboard or if you're looking for more advanced tips and tricks.
 
 ## Contributing
 We welcome contributions to this repository! If you have an example script that you'd like to share, please feel free to submit a pull request. Before doing so, please review our [contributing guidelines](https://taiamk.pro) to ensure that your code meets our standards and is compatible with the latest version of the software.
