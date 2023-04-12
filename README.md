@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Automatic Mouse and Keyboard Example Code Repository
 ## Introduction
 Welcome to the Automatic Mouse and Keyboard Example Code Repository! This repository contains example code for the Automatic Mouse and Keyboard software, which is available for purchase on [our website](https://taiamk.pro/). The code is intended to help users better understand how to use the software and customize it to suit their needs.
